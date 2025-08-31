@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/9OZ6gFY.png" alt="Profile Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Mohammad Amin 👋</h1>
 <h3 align="center">Backend Developer & DevOps Enthusiast</h3>
 
