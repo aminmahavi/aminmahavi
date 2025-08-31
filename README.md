@@ -3,10 +3,11 @@
 
 ---
 
-💻 Backend Developer with a passion for automating systems and building secure, scalable solutions.  
-⚙️ Specialized in **Mail Server automation** (Postfix, Dovecot, SPF, DKIM, DMARC)  
-🌐 Experienced with **Ubuntu Server**, **Cloudflare API**, and automation scripting  
-🚀 Always learning, experimenting, and contributing to open-source
+
+💻 Backend Developer with a focus on Python for building secure, scalable, and automated systems
+⚙️ Skilled in backend architecture, API integrations, and server automation using tools like Bash, Ubuntu Server, Cloudflare API, Git, and PostgreSQL
+🌐 Experienced in designing CLI tools, automation scripts, and optimization workflows for real-world deployments
+🚀 Constantly exploring new technologies and contributing to open‑source projects
 
 ---
 
