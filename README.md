@@ -1,9 +1,17 @@
-# Hi, I'm Mohammad Amin 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/9OZ6gFY.png" alt="Profile Banner" width="100%" />
+</p>
 
-💻 Backend Developer & DevOps Enthusiast  
-⚙️ Specialized in automating Mail Server setups (Postfix, Dovecot, SPF, DKIM, DMARC)  
-🌐 Experienced with Ubuntu Server, Cloudflare API, and automation scripting  
-🚀 Always learning and building open-source projects
+<h1 align="center">Hi, I'm Mohammad Amin 👋</h1>
+<h3 align="center">Backend Developer & DevOps Enthusiast</h3>
+
+---
+
+💻 Backend Developer with a passion for automating systems and building secure, scalable solutions.  
+⚙️ Specialized in **Mail Server automation** (Postfix, Dovecot, SPF, DKIM, DMARC)  
+🌐 Experienced with **Ubuntu Server**, **Cloudflare API**, and automation scripting  
+🚀 Always learning, experimenting, and contributing to open-source
 
 ---
 
@@ -19,18 +27,22 @@
 ---
 
 ## 🛠 Skills & Tools
-![Bash](https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/DNS-Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![Postfix](https://img.shields.io/badge/Mail-Postfix-CC0000)
-![Dovecot](https://img.shields.io/badge/Mail-Dovecot-0066FF)
+<p>
+  <img src="https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNS-Cloudflare-F38020?logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mail-Postfix-CC0000" />
+  <img src="https://img.shields.io/badge/Mail-Dovecot-0066FF" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminmahavi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminmahavi&layout=compact&theme=tokyonight)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aminmahavi&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminmahavi&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
