@@ -1,24 +1,24 @@
-# سلام، من محمدامین 👋
+# Hi, I'm Mohammad Amin 👋
 
-💻 برنامه‌نویس بک‌اند و علاقه‌مند به DevOps  
-⚙️ تخصص در راه‌اندازی و خودکارسازی Mail Server ها (Postfix, Dovecot, SPF, DKIM, DMARC)  
-🌐 تجربه کار با Ubuntu Server، Cloudflare API و اتوماسیون اسکریپت‌ها  
-🚀 همیشه در حال یادگیری و ساخت پروژه‌های متن‌باز
-
----
-
-## 📌 پروژه‌های شاخص
-| پروژه | توضیح |
-|-------|-------|
-| [**mail-server-lab**](https://github.com/aminmahavi/mail-server-lab) | اتوماتیک‌سازی راه‌اندازی Postfix/Dovecot به همراه تنظیم رکوردهای DNS (SPF، DKIM، DMARC) با Cloudflare API روی Ubuntu 22.04 |
-| [**youtube-uploader-bot**](https://github.com/aminmahavi/youtube-uploader-bot) | آپلود خودکار ویدیو به یوتیوب با استفاده از yt_dlp و Google API |
-| [**bitpin-trading-bot-n8n**](https://github.com/aminmahavi/bitpin-trading-bot-n8n) | ربات ترید خودکار ارز دیجیتال برای Bitpin با n8n (ورژن Paper Trading) |
-| [**TrendBot**](https://github.com/aminmahavi/TrendBot) | ربات اتوماسیون یوتیوب برای جستجو و آپلود ویدیو |
-| [**BeCloser**](https://github.com/aminmahavi/BeCloser) | اپلیکیشن نسل جدید دیتینگ محلی با فیلتر و موقعیت GPS دقیق |
+💻 Backend Developer & DevOps Enthusiast  
+⚙️ Specialized in automating Mail Server setups (Postfix, Dovecot, SPF, DKIM, DMARC)  
+🌐 Experienced with Ubuntu Server, Cloudflare API, and automation scripting  
+🚀 Always learning and building open-source projects
 
 ---
 
-## 🛠 مهارت‌ها و ابزارها
+## 📌 Featured Projects
+| Project | Description |
+|---------|-------------|
+| [**mail-server-lab**](https://github.com/aminmahavi/mail-server-lab) | Automated Postfix/Dovecot setup with DNS records (SPF, DKIM, DMARC) via Cloudflare API on Ubuntu 22.04 |
+| [**youtube-uploader-bot**](https://github.com/aminmahavi/youtube-uploader-bot) | Automatic YouTube video search & upload bot using yt_dlp and Google API |
+| [**bitpin-trading-bot-n8n**](https://github.com/aminmahavi/bitpin-trading-bot-n8n) | Automated crypto trading bot for Bitpin exchange using n8n (Paper Trading version) |
+| [**TrendBot**](https://github.com/aminmahavi/TrendBot) | Automation bot for YouTube search and upload |
+| [**BeCloser**](https://github.com/aminmahavi/BeCloser) | Next-gen local dating app with precise GPS filters and real-time events |
+
+---
+
+## 🛠 Skills & Tools
 ![Bash](https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
@@ -28,12 +28,12 @@
 
 ---
 
-## 📈 آمار GitHub
+## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminmahavi&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminmahavi&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 راه‌های ارتباطی
+## 📫 Contact
 - **Email:** [mahavi.mohammadamin@gmail.com](mailto:mahavi.mohammadamin@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/mohammad-amin-mahavi](https://linkedin.com/in/mohammad-amin-mahavi)
