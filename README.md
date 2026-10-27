@@ -1,46 +1,39 @@
-<h1 align="center">Hi, I'm Mohammad Amin 👋</h1>
-<h3 align="center">Backend Developer & DevOps Enthusiast</h3>
+# Hi, I'm Mohammad Amin Mahavi
 
----
+### AI Assistants · Business Automation · Industrial Operations
 
-💻 Backend Developer with a focus on Python for building secure, scalable, and automated systems  
-⚙️ Skilled in backend architecture, API integrations, and server automation using tools like Bash, Ubuntu Server, Cloudflare API, Git, and PostgreSQL  
-🌐 Experienced in designing CLI tools, automation scripts, and optimization workflows for real-world deployments  
-🚀 Constantly exploring new technologies and contributing to open-source projects
+Based in Odense, Denmark. I build practical AI demos and automation tools, drawing on 13+ years of experience in petrochemical production and operations.
 
----
+My current focus is multilingual customer support assistants, API integrations, and tools that help businesses answer service questions and guide customers through the next step.
 
-## 📌 Featured Projects
-| Project | Description |
-|---------|-------------|
-| [**mail-server-lab**](https://github.com/aminmahavi/mail-server-lab) | Automated Postfix/Dovecot setup with DNS records (SPF, DKIM, DMARC) via Cloudflare API on Ubuntu 22.04 |
-| [**youtube-uploader-bot**](https://github.com/aminmahavi/youtube-uploader-bot) | Automatic YouTube video search & upload bot using yt_dlp and Google API |
-| [**bitpin-trading-bot-n8n**](https://github.com/aminmahavi/bitpin-trading-bot-n8n) | Automated crypto trading bot for Bitpin exchange using n8n (Paper Trading version) |
-| [**TrendBot**](https://github.com/aminmahavi/TrendBot) | Automation bot for YouTube search and upload |
-| [**BeCloser**](https://github.com/aminmahavi/BeCloser) | Next-gen local dating app with precise GPS filters and real-time events |
+## Current showcase: TurboWash AI
 
----
+A multilingual sales and support demo built for the TurboWash use case and submitted for feedback.
 
-## 🛠 Skills & Tools
-<p>
-  <img src="https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS-Cloudflare-F38020?logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mail-Postfix-CC0000" />
-  <img src="https://img.shields.io/badge/Mail-Dovecot-0066FF" />
-</p>
+- Answers questions about published services and prices.
+- Asks one question at a time to understand the customer's needs.
+- Suggests suitable packages and directs customers to the business's booking channel.
+- Uses Cloudflare Workers and the Gemini API.
 
----
+**Status:** Demo submitted for feedback; production deployment and a paid engagement have not been confirmed. The assistant cannot create or confirm bookings or check live availability.
 
-## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aminmahavi&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminmahavi&layout=compact&theme=tokyonight" height="165"/>
-</p>
+## Selected repositories
 
----
+| Project | Focus |
+| --- | --- |
+| [mail-server-lab](https://github.com/aminmahavi/mail-server-lab) | Postfix/Dovecot mail server lab and Cloudflare DNS automation |
+| [bitpin-trading-bot-n8n](https://github.com/aminmahavi/bitpin-trading-bot-n8n) | Experimental n8n workflow for paper trading |
+| [TrendBot](https://github.com/aminmahavi/TrendBot) | YouTube automation experiment |
 
-## 📫 Contact
-- **Email:** [mahavi.mohammadamin@gmail.com](mailto:mahavi.mohammadamin@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/mohammad-amin-mahavi](https://linkedin.com/in/mohammad-amin-mahavi)
+## Tools I work with
+
+Python · JavaScript · Cloudflare Workers · Gemini API · REST APIs · n8n · Bash · Ubuntu · Git
+
+## Operations background
+
+My industrial experience includes SBR production, commissioning and startup, Honeywell DCS, troubleshooting, SOPs, and team leadership. This background shapes how I approach software: understand the workflow, solve a concrete problem, and make the tool usable.
+
+## Contact
+
+- [Email](mailto:mahavi.mohammadamin@gmail.com)
+- [LinkedIn](https://linkedin.com/in/mohammad-amin-mahavi)
